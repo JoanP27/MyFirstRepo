@@ -1,0 +1,4 @@
+Watch video,
+Make sprites for game,
+Make player moviment,
+finish enviroment
